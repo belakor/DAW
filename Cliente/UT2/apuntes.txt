@@ -1,0 +1,7 @@
+variable=(a==23)
+es lo mismo que el tocho de 
+if(a==23){
+variable = true;
+}else{
+variable = false;
+}

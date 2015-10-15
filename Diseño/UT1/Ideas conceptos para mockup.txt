@@ -1,0 +1,4 @@
+-Mirar http://trakt.tv/ para hacer el mockup 
+-Consultar http://bigdropinc.com/ barra de arriba interesante
+-Liquid rescale para Gimp, sirve para dar a las imágenes forma para el encabezado de la página
+-Galeria?

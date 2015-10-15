@@ -1,0 +1,3 @@
+variables 'static' siempre mantienen el valor tras ejecución, (contador)
+variables 'global' se usa para indicar el uso de una variable global fuera de la función y que está presente fuera de la
+función (NO ES RECOMENDABLE)

@@ -1,0 +1,13 @@
+cuentas de usuario, perfiles o preferencias (mozilla) cada una con sus diferentes configuraciones para cada perfil
+administrador de tareas
+uso de aplicaciones
+centro de resolución de problemas/centro de ayuda
+notificación de errores
+actualizaciones automáticas
+almacenamiento de datos(descargas?)
+personalización del aspecto o interfaz
+seguridad, temas de privacidad etc
+cookies, almacenamiento de datos del usuario sobre los sitios web que visitamos
+hacer tabla comparando navegadores?
+
+
