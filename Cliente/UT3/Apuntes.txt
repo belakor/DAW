@@ -1,0 +1,10 @@
+a["asd"];
+a[asd];
+a.asd
+-Lo de arriba es otra manera para llamar metodos/funciones sirve por si tenemos espacios entre las palabras de la función/método
+tambié sirve para acceder a la propiedad?
+var a = objeto cualquiera
+var s = "año"
+a.año --> no hace lo que queremos
+a[s] --> accede a año hace lo que queremos
+

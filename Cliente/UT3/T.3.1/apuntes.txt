@@ -1,0 +1,2 @@
+-La función tiene que devolver una array con los tres datos y recibir el query string
+return[dato1, dato2, dato3]
